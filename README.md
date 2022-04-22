@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=mortals-tx" />&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=mortals-tx" />>
 </div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mortals-tx" />
